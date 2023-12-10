@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [Matches](https://www.matchesfashion.com)
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mkannan007](https://www.linkedin.com/in/mkannan007)
+- 📄 Know about my work experiences [https://www.linkedin.com/in/mkannan007](https://www.linkedin.com/in/mkannan007)
 
 - 👨‍💻 Some of my personal projects are available at [https://www.github.com/mkannan007](https://www.github.com/mkannan007)
 
@@ -33,6 +33,20 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **mkannan007@gmail.com**
 
+<!-- <h2 align="left">Contact</h2>
+<details>
+<summary>Email</summary>
+<h2 align="left">mkannan007@gmail.com</h2>
+</details>
+<details>
+<summary>Mobile</summary>
+<h2 align="left">+44 07503044414</h2>
+</details> -->
+
+<h2 align="left">Email Connect</h2>
+<p align="left">
+<a href="mailto:mkannan007@gmail.com" target="blank"><img align="center" src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg?updated=1696475443284" alt="mkannan007" height="50" width="50" /></a>
+</p>
 
 <h2 align="left">Social Connect</h2>
 <p align="left">
@@ -44,6 +58,7 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idIlQtGZ76/id0-IgdVBb.jpeg?updated=1667572307182" alt="@mkannan007" height="50" width="50" /></a>
 </p>
 
+<h1 align="center"> Tech Stack</h1>
 <h2 align="left">Test Automation Tools:</h2>
 <p align="left"> 
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idpyc8TcWP/idEJ2Bgun2.png?updated=1693577479421" alt="playwright" width="50" height="50"/> </a>
