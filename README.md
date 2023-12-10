@@ -12,7 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<p align="right"> <img src="https://komarev.com/ghpvc/?username=mkannan007&label=Profile%20views&color=0e75b6&style=flat" alt="mkannan007" /> </p>
+
+<h2 align="left">Connect</h3>
+<p align="left">
+<a href="https://linkedin.com/in/mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idbGPuWgz_/ida2097ajd.png?updated=1701212804122" alt="mkannan007" height="50" width="50" /></a>
+<a href="https://medium.com/@mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idIlQtGZ76/id0-IgdVBb.jpeg?updated=1667572307182" alt="@mkannan007" height="50" width="50" /></a>
+ <img align="right" src="https://komarev.com/ghpvc/?username=mkannan007&label=Profile%20views&color=0e75b6&style=flat" alt="mkannan007" /> 
+</p>
+
 <h1 align="center">Hi 👋, I'm Kannan Muthu Manickam</h1>
 <h2 align="center">A passionate QA - Test Automation Engineer | SDET from London, United Kingdom</h2>
 
@@ -29,12 +36,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me **mkannan007@gmail.com**
 
 - 📄 Know about my experiences [https://www.linkedin.com/in/mkannan007](https://www.linkedin.com/in/mkannan007)
-
-<h2 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idbGPuWgz_/ida2097ajd.png?updated=1701212804122" alt="mkannan007" height="50" width="50" /></a>
-<a href="https://medium.com/@mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idIlQtGZ76/id0-IgdVBb.jpeg?updated=1667572307182" alt="@mkannan007" height="50" width="50" /></a>
-</p>
 
 <h2 align="left">Test Automation Tools:</h3>
 <p align="left"> 
