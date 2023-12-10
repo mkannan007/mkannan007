@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **New Test Testing and Automation Techniques**
   
-- 💬 Ask me about **Test Automation tools techniques, ideas**
+- 💬 Want to know more about me <a href="https://github.com/mkannan007/cv/blob/main/KANNAN_M_CV.pdf" target="blank"> Please click here to see my CV.</a>
 
 - 📫 How to reach me **mkannan007@gmail.com**
 
