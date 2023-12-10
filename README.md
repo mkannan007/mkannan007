@@ -14,8 +14,14 @@ Here are some ideas to get you started:
 
 <img align="right" src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg?updated=1696475443284" alt="gmail" height="50" width="50" />mkannan007@gmail.com</a> 
 -->
-
+<p align="left">
+<a href="https://github.com/mkannan007/cv/blob/main/KANNAN_M_CV.pdf" download="Kannan_CV_QA-Test_Engineer"> 
+<img src="https://www.iconpacks.net/icons/2/free-pdf-download-icon-2617-thumb.png" alt="pdf" width="40" height="40"/>
+  Please click here to download my CV 
+</a>
 <img align="right" src="https://komarev.com/ghpvc/?username=mkannan007&label=Profile%20views&color=0e75b6&style=flat" alt="mkannan007" /> 
+</p>
+
 <h1 align="center">Hi 👋, I'm Kannan Muthu Manickam</h1>
 <h1 align="center">QA - Test Automation Engineer | SDET | London, United Kingdom</h1>
 
@@ -25,13 +31,13 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Some of my personal projects are available at [https://www.github.com/mkannan007](https://www.github.com/mkannan007)
 
-- 📝 I regularly write articles on [https://medium.com/@mkannan007/](https://medium.com/@mkannan007/)
-
-- 🌱 I’m currently learning **New Test Testing and Automation Techniques**
+- 📝 See my blogs on [https://medium.com/@mkannan007/](https://medium.com/@mkannan007/)
   
-- 💬 Want to know more about me <a href="https://github.com/mkannan007/cv/blob/main/KANNAN_M_CV.pdf" target="blank"> Please click here to see my CV.</a>
+- 💬 Want to know more about me <a href="https://github.com/mkannan007/cv/blob/main/KANNAN_M_CV.pdf" target="blank">Please click here to see my CV.</a>
 
 - 📫 How to reach me **mkannan007@gmail.com**
+
+- 🌱 I’m passionate in learning **New Testing and Automation Techniques**
 
 <!-- <h2 align="left">Contact</h2>
 <details>
@@ -63,9 +69,9 @@ Here are some ideas to get you started:
 <p align="left"> 
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idpyc8TcWP/idEJ2Bgun2.png?updated=1693577479421" alt="playwright" width="50" height="50"/> </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" alt="cypress" width="50" height="50"/> </a> 
-  <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idV7ZoyErg/idjjDL4vNp.svg?updated=1700632173304" alt="webdriverio" width="50" height="50"/> 
-  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/id3uyOwT-S/idgLpsQVbx.jpeg?updated=1701429400602" alt="selenium" width="50" height="50"/>
-  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="cucumber" width="50" height="50"/>
+  <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idV7ZoyErg/idjjDL4vNp.svg?updated=1700632173304" alt="webdriverio" width="50" height="50"/> </a>
+  <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/id3uyOwT-S/idgLpsQVbx.jpeg?updated=1701429400602" alt="selenium" width="50" height="50"/> </a>
+  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="cucumber" width="50" height="50"/> </a>
 </p>
 
 <h2 align="left">Advanced Programming Languages:</h2>
