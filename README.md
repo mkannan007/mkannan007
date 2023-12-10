@@ -11,31 +11,32 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+<img align="right" src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg?updated=1696475443284" alt="gmail" height="50" width="50" />mkannan007@gmail.com</a> 
 -->
 
- <img align="right" src="https://komarev.com/ghpvc/?username=mkannan007&label=Profile%20views&color=0e75b6&style=flat" alt="mkannan007" /> 
-
+<img align="right" src="https://komarev.com/ghpvc/?username=mkannan007&label=Profile%20views&color=0e75b6&style=flat" alt="mkannan007" /> 
 <h1 align="center">Hi 👋, I'm Kannan Muthu Manickam</h1>
 <h1 align="center">QA - Test Automation Engineer | SDET | London, United Kingdom</h1>
 
 - 🔭 I’m currently working on [Matches](https://www.matchesfashion.com)
 
-- 🌱 I’m currently learning **New Test Testing and Automation Techniques**
+- 📄 Know about my experiences [https://www.linkedin.com/in/mkannan007](https://www.linkedin.com/in/mkannan007)
 
-- 👨‍💻 All of my projects are available at [https://www.github.com/mkannan007](https://www.github.com/mkannan007)
+- 👨‍💻 Some of my personal projects are available at [https://www.github.com/mkannan007](https://www.github.com/mkannan007)
 
 - 📝 I regularly write articles on [https://medium.com/@mkannan007/](https://medium.com/@mkannan007/)
 
+- 🌱 I’m currently learning **New Test Testing and Automation Techniques**
+  
 - 💬 Ask me about **Test Automation tools techniques, ideas**
 
 - 📫 How to reach me **mkannan007@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/mkannan007](https://www.linkedin.com/in/mkannan007)
 
 <h2 align="left">Social Connect</h2>
 <p align="left">
 <a href="https://linkedin.com/in/mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idbGPuWgz_/ida2097ajd.png?updated=1701212804122" alt="mkannan007" height="50" width="50" /></a>
-<a href="https://www.gmail.com" target="blank"><img align="center" src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg?updated=1696475443284" alt="mkannan007" height="50" width="50" /></a> 
 </p>
 
 <h2 align="left">Blog website</h2>
@@ -43,13 +44,13 @@ Here are some ideas to get you started:
 <a href="https://medium.com/@mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idIlQtGZ76/id0-IgdVBb.jpeg?updated=1667572307182" alt="@mkannan007" height="50" width="50" /></a>
 </p>
 
-<h2 align="left">Test Automation Tools:</h3>
+<h2 align="left">Test Automation Tools:</h2>
 <p align="left"> 
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idpyc8TcWP/idEJ2Bgun2.png?updated=1693577479421" alt="playwright" width="50" height="50"/> </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" alt="cypress" width="50" height="50"/> </a> 
   <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idV7ZoyErg/idjjDL4vNp.svg?updated=1700632173304" alt="webdriverio" width="50" height="50"/> 
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/id3uyOwT-S/idgLpsQVbx.jpeg?updated=1701429400602" alt="selenium" width="50" height="50"/>
-  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="50" height="50"/> </a>
+  <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="cucumber" width="50" height="50"/>
 </p>
 
 <h2 align="left">Advanced Programming Languages:</h2>
@@ -86,8 +87,10 @@ Here are some ideas to get you started:
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/> </a> 
 </p>
 
-<h2 align="left">Basic Programming Languages:</h2>
+<h2 align="left">Basic Programming Languages & Tools:</h2>
 <p align="left"> 
+  <a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="appium" width="50" height="50"/> </a>
+  <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="50" height="50"/> </a>
   <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 </p>
