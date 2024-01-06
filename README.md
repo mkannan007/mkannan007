@@ -17,9 +17,9 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://github.com/mkannan007/cv/blob/main/KANNAN_M_CV_Latest.pdf" download="Kannan_CV_QA-Test_Engineer"> 
 <img src="https://www.iconpacks.net/icons/2/free-pdf-download-icon-2617-thumb.png" alt="pdf" width="40" height="40"/>
-  Please click here to download my CV 
+  Please click here to download my CV in pdf format 
 </a>
-<img align="right" src="https://komarev.com/ghpvc/?username=mkannan007&label=Profile%20views&color=0e75b6&style=flat" alt="mkannan007" /> 
+<!-- <img align="right" src="https://komarev.com/ghpvc/?username=mkannan007&label=Profile%20views&color=0e75b6&style=flat" alt="mkannan007" />  -->
 </p>
 
 <h1 align="center">Hi 👋, I'm Kannan Muthu Manickam</h1>
@@ -63,6 +63,14 @@ Here are some ideas to get you started:
 <p align="left">
 <a href="https://medium.com/@mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idIlQtGZ76/id0-IgdVBb.jpeg?updated=1667572307182" alt="@mkannan007" height="50" width="50" /></a>
 </p>
+
+
+<h1 align="center"> Work Experience</h1>
+
+- **Senior Test Automation Engineer** @[Matches Fashion](https://www.matchesfashion.com) - _London, UK_, **Since March 2020**
+- **QA Test Automation Specialist** @[Publicis Sapient](https://www.publicissapient.com/) - _London, UK_ for the Client ([Nationwide Building Society](https://www.nationwide.co.uk/)) - **January 2019 to February 2020**
+- **Senior Engineer - Test** @[Renault Nissan Technology and Business Centre India](https://rntbci.in/) - _Chennai, India_ - **October 2017 to September 2018**
+- **Test Automation Engineer** formally it was SQS BFSI limited and now it is [Expleo](https://expleo.com/) - _London, UK_ and _Chennai, India_ for the client ([Hiscox UK](https://www.hiscox.co.uk/)) - **January 2014 to October 2017**
 
 <h1 align="center"> Tech Stack</h1>
 <h2 align="left">Test Automation Tools:</h2>
