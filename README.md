@@ -72,6 +72,13 @@ Here are some ideas to get you started:
 - **Senior Engineer - Test @[Renault Nissan Technology and Business Centre India](https://rntbci.in/) - Chennai, India** - _October 2017 to September 2018_
 - **Test Automation Engineer** formally it was **SQS BFSI limited** and now it is **[Expleo](https://expleo.com/) - London, UK** and **Chennai, India** for the client **([Hiscox UK](https://www.hiscox.co.uk/))** - _January 2014 to October 2017_
 
+<h1 align="center"> Business Domains Worked </h1>
+
+- **E-commerce**
+- **Everyday Banking**
+- **General Insurance**
+- **Logistics**
+
 <h1 align="center"> Educational Qualifications</h1>
 
 - **Master of Computer Applications (MCA) @[Hindustan University](https://hindustanuniv.ac.in/)** - _Chennai, India_
@@ -160,3 +167,7 @@ Here are some ideas to get you started:
   <a href="https://www.apple.com/uk/macos/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idnrCPuv87/idQGxxARFI.jpeg?updated=1683101444619" alt="macos" width="50" height="50"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
 </p>
+
+<h1 align="center"> Certifications </h1>
+
+- **ISTQB Certified Tester** Foundation Level - iSQI, GmbK, Germany - _2014_
