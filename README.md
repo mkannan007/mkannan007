@@ -97,7 +97,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">CI/CD Tools:</h2> 
 <p align="left">
-  <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://camo.githubusercontent.com/eeb25c8fe7d597494949032a0a1b2e79830bd8c69d5cc495efdb62fac04007c0/68747470733a2f2f63646e2e73766172756e2e6465762f67682f616374696f6e732e706e67" alt="github-actions" width="50" height="50"/> </a>
+  <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" alt="github-actions" width="50" height="50"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> </a>
 </p>
 
