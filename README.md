@@ -67,10 +67,10 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Work Experience</h1>
 
-- **Senior Test Automation Engineer @[Matches Fashion](https://www.matchesfashion.com) - London, UK**, - _Since March 2020 to Current_
-- **QA Test Automation Specialist @[Publicis Sapient](https://www.publicissapient.com/) - London, UK** for the Client **([Nationwide Building Society](https://www.nationwide.co.uk/))** - _January 2019 to February 2020_
-- **Senior Engineer - Test @[Renault Nissan Technology and Business Centre India](https://rntbci.in/) - Chennai, India** - _October 2017 to September 2018_
-- **Test Automation Engineer** formally it was **SQS BFSI limited** and now it is **[Expleo](https://expleo.com/) - London, UK** and **Chennai, India** for the client **([Hiscox UK](https://www.hiscox.co.uk/))** - _January 2014 to October 2017_
+- **Senior Test Automation Engineer @[Matches Fashion](https://www.matchesfashion.com) - London, UK**, - _Since March 2020 --> Current_
+- **QA Test Automation Specialist @[Publicis Sapient](https://www.publicissapient.com/) - London, UK** for the Client **([Nationwide Building Society](https://www.nationwide.co.uk/))** - _January 2019 --> February 2020_
+- **Senior Engineer - Test @[Renault Nissan Technology and Business Centre India](https://rntbci.in/) - Chennai, India** - _October 2017 --> September 2018_
+- **Test Automation Engineer** formally it was **SQS BFSI limited** and now it is **[Expleo](https://expleo.com/) - London, UK** and **Chennai, India** for the client **([Hiscox UK](https://www.hiscox.co.uk/))** - _January 2014 --> October 2017_
 
 <h1 align="center"> Business Domains Worked </h1>
 
