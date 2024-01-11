@@ -69,9 +69,9 @@ Here are some ideas to get you started:
 
 |**_Organization_**| **_Client_**| **_Location_**| **_Designation/Role_**| **_Period Worked_**|
 |------------|---------|-----------------|--------------|--------------|
-|**[Matches Fashion Limited](https://www.matchesfashion.com/)**| **Matches Back Office** | **London, United Kingdom**| **Senior Test Automation Engineer**| **Mar-2020 -> Present**|
+|**[Matches Fashion Limited](https://www.matchesfashion.com/)**| **[Matches Fashion Limited](https://www.matchesfashion.com/)** | **London, United Kingdom**| **Senior Test Automation Engineer**| **Mar-2020 -> Present**|
 |**[Publicis Sapient Limited](https://www.publicissapient.com/)**| **[Nationwide Building Society UK](https://www.nationwide.co.uk/)** |**London, United Kingdom**| **Test Automation Specialist**| **Jan-2019 -> Feb-2020**|
-|**[Renault Nissan Technology and Business Centre India Private Limited](https://rntbci.in/)**|**[Renault, Paris, France](https://www.renaultgroup.com/en/)** | **Chennai, India**| **Senior Engineer - Test**| **Oct-2017 -> Sep-2018**|
+|**[Renault Nissan Technology Private Limited](https://rntbci.in/)**|**[Renault, Paris, France](https://www.renaultgroup.com/en/)** | **Chennai, India**| **Senior Engineer - Test**| **Oct-2017 -> Sep-2018**|
 |**SQS India BFSI Limited** | **[Hiscox UK](https://www.hiscox.co.uk/)** | **Chennai, India**| **QA - Test Automation Engineer**| **Oct-2016 -> Oct-2017**|
 |**SQS BFSI UK Limited**| **[Hiscox UK](https://www.hiscox.co.uk/)** | **London, United Kingdom**| **Test Automation Engineer**| **Feb-2016 -> Oct-2016**|
 |**SQS India BFSI Limited**| **[Hiscox UK](https://www.hiscox.co.uk/)** | **Chennai, India**| **Junior Test Automation Engineer**| **Jan-2014 -> Feb-2016**|
