@@ -67,10 +67,19 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Work Experience</h1>
 
-- **Senior Test Automation Engineer @[Matches Fashion](https://www.matchesfashion.com) - London, UK**, - _Since March 2020 --> Current_
-- **QA Test Automation Specialist @[Publicis Sapient](https://www.publicissapient.com/) - London, UK** for the Client **([Nationwide Building Society](https://www.nationwide.co.uk/))** - _January 2019 --> February 2020_
-- **Senior Engineer - Test @[Renault Nissan Technology and Business Centre India](https://rntbci.in/) - Chennai, India** - _October 2017 --> September 2018_
-- **Test Automation Engineer** formally it was **SQS BFSI limited** and now it is **[Expleo](https://expleo.com/) - London, UK** and **Chennai, India** for the client **([Hiscox UK](https://www.hiscox.co.uk/))** - _January 2014 --> October 2017_
+|**_Organization_**| **_Location_**| **_Designation/Role_**| **_Period Worked_**|
+|------------|---------|-----------------|--------------|
+|**[Matches Fashion Limited](https://www.matchesfashion.com/)**| **London, United Kingdom**| **Senior Test Automation Engineer**| **Mar-2020 -> Present**|
+|**[Publicis Sapient Limited (Client: Nationwide Building Society UK)](https://www.publicissapient.com/)**| **London, United Kingdom**| **Test Automation Specialist**| **Jan-2019 -> Feb-2020**|
+|**[Renault Nissan Technology and Business Centre India Private Limited](https://rntbci.in/)**| **Chennai, India**| **Senior Engineer - Test**| **Oct-2017 -> Sep-2018**|
+|**SQS India BFSI Limited (Client: Hiscox UK)**| **Chennai, India**| **QA - Test Automation Engineer**| **Oct-2016 -> Oct-2017**|
+|**SQS BFSI UK Limited (Client: Hiscox UK)**| **London, United Kingdom**| **Test Automation Engineer**| **Feb-2016 -> Oct-2016**|
+|**SQS India BFSI Limited (Client: Hiscox UK)**| **Chennai, India**| **Junior Test Automation Engineer**| **Jan-2014 -> Feb-2016**|
+
+<!-- - **Senior Test Automation Engineer @[Matches Fashion](https://www.matchesfashion.com) - London, UK**, - _Since March 2020 to Current_
+- **QA Test Automation Specialist @[Publicis Sapient](https://www.publicissapient.com/) - London, UK** for the Client **([Nationwide Building Society](https://www.nationwide.co.uk/))** - _January 2019 to February 2020_
+- **Senior Engineer - Test @[Renault Nissan Technology and Business Centre India](https://rntbci.in/) - Chennai, India** - _October 2017 to September 2018_
+- **Test Automation Engineer** formally it was **SQS BFSI limited** and now it is **[Expleo](https://expleo.com/) - London, UK** and **Chennai, India** for the client **([Hiscox UK](https://www.hiscox.co.uk/))** - _January 2014 to October 2017_ -->
 
 <h1 align="center"> Business Domains Worked </h1>
 
@@ -83,7 +92,11 @@ Here are some ideas to get you started:
 
 - **Master of Computer Applications (MCA) @[Hindustan University](https://hindustanuniv.ac.in/)** - _Chennai, India_
 - **Bachelor of Science (BSC) in Mathematics @[University of Madras](https://www.unom.ac.in/)** - _Chennai, India_
-  
+
+<h1 align="center"> Certifications </h1>
+
+- **ISTQB Certified Tester** Foundation Level - iSQI, GmbK, Germany - _2014_
+
 <h1 align="center"> Tech Stack</h1>
 <h2 align="left">Test Automation Tools:</h2>
 <p align="left"> 
@@ -98,7 +111,12 @@ Here are some ideas to get you started:
 <p align="left"> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="50" height="50"/> </a>
   <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="50" height="50"/> </a>
+</p>
+
+<h2 align="left">Intermediate Programming Languages:</h2>
+<p align="left"> 
   <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="50" height="50"/> </a>
+  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
 </p>
 
 <h2 align="left">API Testing Tools:</h2> 
@@ -132,7 +150,6 @@ Here are some ideas to get you started:
 <p align="left"> 
   <a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="appium" width="50" height="50"/> </a>
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="50" height="50"/> </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 </p>
 
@@ -167,7 +184,3 @@ Here are some ideas to get you started:
   <a href="https://www.apple.com/uk/macos/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idnrCPuv87/idQGxxARFI.jpeg?updated=1683101444619" alt="macos" width="50" height="50"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
 </p>
-
-<h1 align="center"> Certifications </h1>
-
-- **ISTQB Certified Tester** Foundation Level - iSQI, GmbK, Germany - _2014_
