@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my work experiences [https://www.linkedin.com/in/mkannan007](https://www.linkedin.com/in/mkannan007)
 
-- 👨‍💻 Some of my personal projects are available at [https://www.github.com/mkannan007](https://github.com/mkannan007?tab=repositories)
+- 👨‍💻 Some of my personal projects are available at <a href="https://github.com/mkannan007?tab=repositories" target="blank">Please click here to see some of my public Github repositories.</a>
 
 - 📝 See my blogs on [https://medium.com/@mkannan007/](https://medium.com/@mkannan007/)
   
