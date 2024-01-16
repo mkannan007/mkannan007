@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **mkannan007@gmail.com**
 
-- 🌱 I’m passionate in learning **New Testing and Automation Techniques**
+- 🌱 I’m passionate in learning **New Automation Testing Techniques**
 
 <!-- <h2 align="left">Contact</h2>
 <details>
