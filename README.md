@@ -103,8 +103,10 @@ Here are some ideas to get you started:
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idpyc8TcWP/idEJ2Bgun2.png?updated=1693577479421" alt="playwright" width="50" height="50"/> </a>
   <a href="https://www.cypress.io" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idIq_kF0rb/idv3zwmSiY.jpeg?updated=1667565306852" alt="cypress" width="50" height="50"/> </a> 
   <a href="https://webdriver.io/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idV7ZoyErg/idjjDL4vNp.svg?updated=1700632173304" alt="webdriverio" width="50" height="50"/> </a>
+  <a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="appium" width="50" height="50"/> </a>
   <a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/id3uyOwT-S/idgLpsQVbx.jpeg?updated=1701429400602" alt="selenium" width="50" height="50"/> </a>
   <a href="https://cucumber.io/" target="_blank" rel="noreferrer"> <img src="https://static.javatpoint.com/tutorial/cucumber/images/cucumber-testing-tutorial.png" alt="cucumber" width="50" height="50"/> </a>
+  <a href="https://specflow.org/" target="_blank" rel="noreferrer"> <img src="https://academy.brightest.be/wp-content/uploads/2020/11/specflow-logo1-1.png" alt="specflow" width="50" height="50"/> </a>
 </p>
 
 <h2 align="left">Advanced Programming Languages:</h2>
@@ -147,8 +149,7 @@ Here are some ideas to get you started:
 </p>
 
 <h2 align="left">Basic Programming Languages & Tools:</h2>
-<p align="left"> 
-  <a href="https://appium.io/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/appium.svg" alt="appium" width="50" height="50"/> </a>
+<p align="left">
   <a href="https://mochajs.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mochajs/mochajs-icon.svg" alt="mocha" width="50" height="50"/> </a>
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="50" height="50"/> </a>
 </p>
