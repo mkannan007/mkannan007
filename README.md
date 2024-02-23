@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Some of my personal projects are available at <a href="https://github.com/mkannan007?tab=repositories" target="blank">Please click here to see some of my public Github repositories.</a>
 
-- 📝 See my blogs on [https://medium.com/@mkannan007/](https://medium.com/@mkannan007/)
+- 📝 See my blogs on [https://mkannan007.work/blog-posts/](https://mkannan007.work/blog-posts/)
   
 - 💬 Want to know more about me <a href="https://github.com/mkannan007/mkannan007/blob/main/Kannan_CV.pdf" target="blank">Please click here to see my CV.</a>
 
