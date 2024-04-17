@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   
 - 💬 Want to know more about me <a href="https://github.com/mkannan007/mkannan007/blob/main/Kannan_CV.pdf" target="blank">Please click here to see my CV.</a>
 
-- 📫 How to reach me **mkannan007@gmail.com**
+- 📫 How to reach me **mkannan007@outlook.com**
 
 - 🌱 I’m passionate in learning **New Automation Testing Techniques**
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Email Connect</h2>
 <p align="left">
-<a href="mailto:mkannan007@outlook.com" target="blank"><img align="center" src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg?updated=1696475443284" alt="mkannan007" height="50" width="50" /></a>
+<a href="mailto:mkannan007@outlook.com" target="blank"><img align="center" src="https://leanmail.com/wp-content/uploads/2021/02/outlook-icon.png" alt="mkannan007" height="50" width="50" /></a>
 </p>
 
 <h2 align="left">Social Connect</h2>
@@ -60,9 +60,9 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idbGPuWgz_/ida2097ajd.png?updated=1701212804122" alt="mkannan007" height="50" width="50" /></a>
 </p>
 
-<h2 align="left">Portfolio website & Blogs</h2>
+<h2 align="left">My Portfolio Website & Blogs</h2>
 <p align="left">
-<a href="https://portfolio.mkannan007.work/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-jvpak&psig=AOvVaw1kmjeq5GPOVs4jZtECRv2H&ust=1713439659899000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCf86mSyYUDFQAAAAAdAAAAABAE" alt="@mkannan007" height="50" width="50" /></a>
+<a href="https://portfolio.mkannan007.work/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.cKjnlXZ84ASp-bQfyFw3eAAAAA?rs=1&pid=ImgDetMain" alt="@mkannan007" height="50" width="50" /></a>
 </p>
 
 <h1 align="center"> Work Experience</h1>
