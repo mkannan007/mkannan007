@@ -26,13 +26,13 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kannan Muthu Manickam</h1>
 <h1 align="left">QA - Test Automation Engineer | SDET | London, United Kingdom</h1>
 
-- 🔭 I’m currently working on [Matches](https://www.matchesfashion.com)
+- 🔭 I’m recently worked on [Matches](https://www.matchesfashion.com)
 
 - 📄 Know about my work experiences [https://www.linkedin.com/in/mkannan007](https://www.linkedin.com/in/mkannan007)
 
 - 👨‍💻 Some of my personal projects are available at <a href="https://github.com/mkannan007?tab=repositories" target="blank">Please click here to see some of my public Github repositories.</a>
 
-- 📝 See my blogs on [https://mkannan007.work/blog-posts/](https://mkannan007.work/blog-posts/)
+- 📝 See my blogs on [https://mkannan007.work/articles/](https://mkannan007.work/articles/)
   
 - 💬 Want to know more about me <a href="https://github.com/mkannan007/mkannan007/blob/main/Kannan_CV.pdf" target="blank">Please click here to see my CV.</a>
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Email Connect</h2>
 <p align="left">
-<a href="mailto:mkannan007@gmail.com" target="blank"><img align="center" src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg?updated=1696475443284" alt="mkannan007" height="50" width="50" /></a>
+<a href="mailto:mkannan007@outlook.com" target="blank"><img align="center" src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg?updated=1696475443284" alt="mkannan007" height="50" width="50" /></a>
 </p>
 
 <h2 align="left">Social Connect</h2>
@@ -60,16 +60,16 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idbGPuWgz_/ida2097ajd.png?updated=1701212804122" alt="mkannan007" height="50" width="50" /></a>
 </p>
 
-<h2 align="left">Blog website</h2>
+<h2 align="left">Portfolio website & Blogs</h2>
 <p align="left">
-<a href="https://medium.com/@mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idIlQtGZ76/id0-IgdVBb.jpeg?updated=1667572307182" alt="@mkannan007" height="50" width="50" /></a>
+<a href="https://portfolio.mkannan007.work/" target="blank"><img align="center" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.hiclipart.com%2Ffree-transparent-background-png-clipart-jvpak&psig=AOvVaw1kmjeq5GPOVs4jZtECRv2H&ust=1713439659899000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCPCf86mSyYUDFQAAAAAdAAAAABAE" alt="@mkannan007" height="50" width="50" /></a>
 </p>
 
 <h1 align="center"> Work Experience</h1>
 
 |**_Organization_**| **_Client_**| **_Location_**| **_Designation/Role_**| **_Period Worked_**|
 |------------|---------|-----------------|--------------|--------------|
-|**[Matches Fashion Limited](https://www.matchesfashion.com/)**| **[Matches Fashion Limited](https://www.matchesfashion.com/)** | **London, United Kingdom**| **Senior Test Automation Engineer**| **Mar-2020 -> Present**|
+|**[Matches Fashion Limited](https://www.matchesfashion.com/)**| **[Matches Fashion Limited](https://www.matchesfashion.com/)** | **London, United Kingdom**| **Senior Test Automation Engineer**| **Mar-2020 -> Mar-2024**|
 |**[Publicis Sapient Limited](https://www.publicissapient.com/)**| **[Nationwide Building Society UK](https://www.nationwide.co.uk/)** |**London, United Kingdom**| **Test Automation Specialist**| **Jan-2019 -> Feb-2020**|
 |**[Renault Nissan Technology Private Limited](https://rntbci.in/)**|**[Renault, Paris, France](https://www.renaultgroup.com/en/)** | **Chennai, India**| **Senior Engineer - Test**| **Oct-2017 -> Sep-2018**|
 |**SQS India BFSI Limited** | **[Hiscox UK](https://www.hiscox.co.uk/)** | **Chennai, India**| **QA - Test Automation Engineer**| **Oct-2016 -> Oct-2017**|
