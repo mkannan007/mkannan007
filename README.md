@@ -67,7 +67,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Work Experience</h1>
 
-|**_Organization_**| **_Client_**| **_Location_**| **_Designation/Role_**| **_Period Worked_**|
+|**_Organization_**| **_Client Location_**| **_Work Location_**| **_Designation/Role_**| **_Period Worked_**|
 |------------|---------|-----------------|--------------|--------------|
 |**[Matches Fashion Limited](https://www.matchesfashion.com/)**| **[Matches Fashion Limited, London, UK](https://www.matchesfashion.com/)** | **London, United Kingdom**| **Senior Test Automation Engineer**| **Mar-2020 -> Mar-2024**|
 |**[Publicis Sapient Limited](https://www.publicissapient.com/)**| **[Nationwide Building Society, Swindon, UK](https://www.nationwide.co.uk/)** |**London, United Kingdom**| **Test Automation Specialist**| **Jan-2019 -> Feb-2020**|
