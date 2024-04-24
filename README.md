@@ -26,7 +26,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Kannan Muthu Manickam</h1>
 <h1 align="left">QA - Test Automation Engineer | SDET | London, United Kingdom</h1>
 
-- 🔭 I’m recently worked on [Matches](https://www.matchesfashion.com)
+- 🔭 I recently worked on [Matches](https://www.matchesfashion.com)
 
 - 📄 Know about my work experiences [https://www.linkedin.com/in/mkannan007](https://www.linkedin.com/in/mkannan007)
 
