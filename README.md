@@ -138,6 +138,7 @@ Here are some ideas to get you started:
 <h2 align="left">CI/CD Tools:</h2> 
 <p align="left">
   <a href="https://www.github.com" target="_blank" rel="noreferrer"> <img src="https://seeklogo.com/images/G/github-actions-logo-031704BDC6-seeklogo.com.png" alt="github-actions" width="50" height="50"/> </a>
+  <a href="https://azure.microsoft.com" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th/id/R.13efd1ae9ad5c4a94613391faea66514?rik=sgf5B%2bw0fjMNaQ&pid=ImgRaw&r=0" alt="azure-devops" width="50" height="50"/> </a>
   <a href="https://www.jenkins.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg" alt="jenkins" width="50" height="50"/> </a>
 </p>
 
