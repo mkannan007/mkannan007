@@ -36,7 +36,7 @@ Here are some ideas to get you started:
   
 - 💬 Want to know more about me <a href="https://github.com/mkannan007/mkannan007/blob/main/Kannan_CV.pdf" target="blank">Please click here to see my CV.</a>
 
-- 📫 How to reach me **mkannan007@outlook.com**
+- 📫 How to reach me **contact@mkannan007.work**
 
 - 🌱 I’m passionate in learning **New Automation Testing Techniques**
 
@@ -52,7 +52,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Email Connect</h2>
 <p align="left">
-<a href="mailto:mkannan007@outlook.com" target="blank"><img align="center" src="https://leanmail.com/wp-content/uploads/2021/02/outlook-icon.png" alt="mkannan007" height="50" width="50" /></a>
+<a href="mailto:contact@mkannan007.work" target="blank"><img align="center" src="https://leanmail.com/wp-content/uploads/2021/02/outlook-icon.png" alt="mkannan007" height="50" width="50" /></a>
 </p>
 
 <h2 align="left">Social Connect</h2>
