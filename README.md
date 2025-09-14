@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 
 |**_Organization_**| **_Client Location_**| **_Work Location_**| **_Designation/Role_**| **_Period Worked_**|
 |------------|---------|-----------------|--------------|--------------|
-|**[British Telecom Group PLC](https://www.bt.com/)**| **[British Telecom Group, London, UK](https://www.matchesfashion.com/)** | **Birmingham, United Kingdom**| **Software Engineer React**| **Sep-2024 -> Current**|
+|**[British Telecom Group PLC](https://www.bt.com/)**| **[British Telecom Group, London, UK](https://www.bt.com/)** | **Birmingham, United Kingdom**| **Software Engineer React**| **Sep-2024 -> Current**|
 |**[Matches Fashion Limited](https://www.matchesfashion.com/)**| **[Matches Fashion Limited, London, UK](https://www.matchesfashion.com/)** | **London, United Kingdom**| **Senior Test Automation Engineer**| **Mar-2020 -> Mar-2024**|
 |**[Publicis Sapient Limited](https://www.publicissapient.com/)**| **[Nationwide Building Society, Swindon, UK](https://www.nationwide.co.uk/)** |**London, United Kingdom**| **Test Automation Specialist**| **Jan-2019 -> Feb-2020**|
 |**[Renault Nissan Technology Private Limited](https://rntbci.in/)**|**[Renault, Paris, France](https://www.renaultgroup.com/en/)** | **Chennai, India**| **Senior Engineer - Test**| **Oct-2017 -> Sep-2018**|
@@ -84,6 +84,7 @@ Here are some ideas to get you started:
 
 <h1 align="center"> Business Domains Worked </h1>
 
+- **Telecommunications**
 - **E-commerce**
 - **Everyday Banking**
 - **General Insurance**
