@@ -31,8 +31,6 @@ Here are some ideas to get you started:
 - 📄 Know about my work experiences [https://www.linkedin.com/in/mkannan007](https://www.linkedin.com/in/mkannan007)
 
 - 👨‍💻 Some of my personal projects are available at <a href="https://github.com/mkannan007?tab=repositories" target="blank">Please click here to see some of my public Github repositories.</a>
-
-- 📝 See my blogs on [https://mkannan007.work/articles/](https://mkannan007.work/articles/)
   
 - 💬 Want to know more about me <a href="https://github.com/mkannan007/mkannan007/blob/main/Kannan_CV.pdf" target="blank">Please click here to see my CV.</a>
 
@@ -52,17 +50,17 @@ Here are some ideas to get you started:
 
 <h2 align="left">Email Connect</h2>
 <p align="left">
-<a href="mailto:contact@mkannan007.work" target="blank"><img align="center" src="https://leanmail.com/wp-content/uploads/2021/02/outlook-icon.png" alt="mkannan007" height="50" width="50" /></a>
+<a href="mailto:contact@mkannan007.work" target="blank"><img align="center" src="https://leanmail.com/wp-content/uploads/2021/02/outlook-icon.png" alt="email" height="50" width="50" /></a>
 </p>
 
 <h2 align="left">Social Connect</h2>
 <p align="left">
-<a href="https://linkedin.com/in/mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idbGPuWgz_/ida2097ajd.png?updated=1701212804122" alt="mkannan007" height="50" width="50" /></a>
+<a href="https://linkedin.com/in/mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idbGPuWgz_/ida2097ajd.png?updated=1701212804122" alt="linkedin" height="50" width="50" /></a>
 </p>
 
 <h2 align="left">My Portfolio Website & Blogs</h2>
 <p align="left">
-<a href="https://portfolio.mkannan007.work/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.cKjnlXZ84ASp-bQfyFw3eAAAAA?rs=1&pid=ImgDetMain" alt="@mkannan007" height="50" width="50" /></a>
+<a href="https://mkannan007.uk/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.cKjnlXZ84ASp-bQfyFw3eAAAAA?rs=1&pid=ImgDetMain" alt="website" height="50" width="50" /></a>
 </p>
 
 <h1 align="center"> Work Experience</h1>
