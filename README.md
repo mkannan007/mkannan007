@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hi 👋, I'm Kannan Muthu Manickam</h1>
-<h1 align="left">Software QA/Test Automation Engineer | SDET | London, UK</h1>
+<h1 align="left">Hybrid Software Engineer - Web App Developer & Automation Tester</h1>
+<h1 align="center">Birmingham, England, UK</h1>
 
 - 🔭 I'm currently working on [British Telecom Group](https://www.bt.com/)
 
