@@ -59,7 +59,7 @@ Here are some ideas to get you started:
 <a href="https://linkedin.com/in/mkannan007" target="blank"><img align="center" src="https://asset.brandfetch.io/idbGPuWgz_/ida2097ajd.png?updated=1701212804122" alt="linkedin" height="50" width="50" /></a>
 </p>
 
-<h2 align="left">My Portfolio Website & Blogs</h2>
+<h2 align="left">My Portfolio Website</h2>
 <p align="left">
 <a href="https://mkannan007.uk/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.cKjnlXZ84ASp-bQfyFw3eAAAAA?rs=1&pid=ImgDetMain" alt="website" height="50" width="50" /></a>
 </p>
@@ -98,7 +98,7 @@ Here are some ideas to get you started:
 
 - **ISTQB Certified Tester** Foundation Level - iSQI, GmbK, Germany - _2014_
 
-<h1 align="center"> Tech Stack</h1>
+<!-- <h1 align="center"> Tech Stack</h1>
 <h2 align="left">Test Automation Tools:</h2>
 <p align="left"> 
   <a href="https://playwright.dev/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idpyc8TcWP/idEJ2Bgun2.png?updated=1693577479421" alt="playwright" width="50" height="50"/> </a>
@@ -186,4 +186,4 @@ Here are some ideas to get you started:
   <a href="https://www.microsoft.com/en-gb/windows" target="_blank" rel="noreferrer"> <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSlHX7h6o8T6ttFNYpSgNSRFUYnpeEiigjACSsZgiLpmw&s" alt="windows" width="50" height="50"/> </a>
   <a href="https://www.apple.com/uk/macos/" target="_blank" rel="noreferrer"> <img src="https://asset.brandfetch.io/idnrCPuv87/idQGxxARFI.jpeg?updated=1683101444619" alt="macos" width="50" height="50"/> </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="50" height="50"/> </a> 
-</p>
+</p> -->
