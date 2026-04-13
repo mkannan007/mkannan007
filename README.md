@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 </p>
 
 <h1 align="center">Hi 👋, I'm Kannan Muthu Manickam</h1>
-<h1 align="left">Hybrid Software Engineer - Web App Developer & Automation Tester</h1>
+<h1 align="left">Software Engineer - Full Stack - Web App Developer & Automation Tester</h1>
 <h1 align="center">Birmingham, England, UK</h1>
 
 - 🔭 I'm currently working on [British Telecom Group](https://www.bt.com/)
@@ -69,7 +69,7 @@ Here are some ideas to get you started:
 |**_Organization_**| **_Client Location_**| **_Work Location_**| **_Designation/Role_**| **_Period Worked_**|
 |------------|---------|-----------------|--------------|--------------|
 |**[British Telecom Group PLC](https://www.bt.com/)**| **[British Telecom Group, London, UK](https://www.bt.com/)** | **Birmingham, United Kingdom**| **Software Engineer React**| **Sep-2024 -> Current**|
-|**[Matches Fashion Limited](https://www.matchesfashion.com/)**| **[Matches Fashion Limited, London, UK](https://www.matchesfashion.com/)** | **London, United Kingdom**| **Senior Test Automation Engineer**| **Mar-2020 -> Mar-2024**|
+|**[Matches Fashion Limited](https://www.matchesfashion.com/)**| **[Matches Fashion Limited, London, UK](https://www.matchesfashion.com/)** | **London, United Kingdom**| **Software Engineer & Test Automation**| **Mar-2020 -> Mar-2024**|
 |**[Publicis Sapient Limited](https://www.publicissapient.com/)**| **[Nationwide Building Society, Swindon, UK](https://www.nationwide.co.uk/)** |**London, United Kingdom**| **Test Automation Specialist**| **Jan-2019 -> Feb-2020**|
 |**[Renault Nissan Technology Private Limited](https://rntbci.in/)**|**[Renault, Paris, France](https://www.renaultgroup.com/en/)** | **Chennai, India**| **Senior Engineer - Test**| **Oct-2017 -> Sep-2018**|
 |**SQS India BFSI Limited** | **[Hiscox, London, UK](https://www.hiscox.co.uk/)** | **Chennai, India**| **QA - Test Automation Engineer**| **Oct-2016 -> Oct-2017**|
