@@ -31,13 +31,13 @@ Here are some ideas to get you started:
 
 - 📄 Know about my work experiences [https://www.linkedin.com/in/mkannan007](https://www.linkedin.com/in/mkannan007)
 
-- 👨‍💻 Some of my personal projects are available at <a href="https://github.com/mkannan007?tab=repositories" target="blank">Please click here to see some of my public Github repositories.</a>
+<!-- - 👨‍💻 Some of my personal projects are available at <a href="https://github.com/mkannan007?tab=repositories" target="blank">Please click here to see some of my public Github repositories.</a> -->
   
 - 💬 Want to know more about me <a href="https://mkannan007.dev/cv" target="blank">Please click here to see my CV.</a>
 
 - 📫 How to reach me **mkannan007@outlook.com**
 
-- 🌱 I’m passionate in learning **New FrontEnd Development & Automation Testing Techniques**
+- 🌱 I’m passionate in learning **Full Stack Development & Automation Testing Techniques**
 
 <!-- <h2 align="left">Contact</h2>
 <details>
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">Email Connect</h2>
 <p align="left">
-<a href="mailto:contact@mkannan007.work" target="blank"><img align="center" src="https://leanmail.com/wp-content/uploads/2021/02/outlook-icon.png" alt="email" height="50" width="50" /></a>
+<a href="mailto:mkannan007@outlook.com" target="blank"><img align="center" src="https://leanmail.com/wp-content/uploads/2021/02/outlook-icon.png" alt="email" height="50" width="50" /></a>
 </p>
 
 <h2 align="left">Social Connect</h2>
@@ -61,7 +61,7 @@ Here are some ideas to get you started:
 
 <h2 align="left">My Portfolio Website</h2>
 <p align="left">
-<a href="https://mkannan007.uk/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.cKjnlXZ84ASp-bQfyFw3eAAAAA?rs=1&pid=ImgDetMain" alt="website" height="50" width="50" /></a>
+<a href="https://mkannan007.dev/" target="blank"><img align="center" src="https://th.bing.com/th/id/OIP.cKjnlXZ84ASp-bQfyFw3eAAAAA?rs=1&pid=ImgDetMain" alt="website" height="50" width="50" /></a>
 </p>
 
 <h1 align="center"> Work Experience</h1>
@@ -72,9 +72,9 @@ Here are some ideas to get you started:
 |**[Matches Fashion Limited](https://www.matchesfashion.com/)**| **[Matches Fashion Limited, London, UK](https://www.matchesfashion.com/)** | **London, United Kingdom**| **Software Engineer & Test Automation**| **Mar-2020 -> Mar-2024**|
 |**[Publicis Sapient Limited](https://www.publicissapient.com/)**| **[Nationwide Building Society, Swindon, UK](https://www.nationwide.co.uk/)** |**London, United Kingdom**| **Test Automation Specialist**| **Jan-2019 -> Feb-2020**|
 |**[Renault Nissan Technology Private Limited](https://rntbci.in/)**|**[Renault, Paris, France](https://www.renaultgroup.com/en/)** | **Chennai, India**| **Senior Engineer - Test**| **Oct-2017 -> Sep-2018**|
-|**SQS India BFSI Limited** | **[Hiscox, London, UK](https://www.hiscox.co.uk/)** | **Chennai, India**| **QA - Test Automation Engineer**| **Oct-2016 -> Oct-2017**|
-|**SQS BFSI UK Limited**| **[Hiscox, London, UK](https://www.hiscox.co.uk/)** | **London, United Kingdom**| **Test Automation Engineer**| **Feb-2016 -> Oct-2016**|
-|**SQS India BFSI Limited**| **[Hiscox, London, UK](https://www.hiscox.co.uk/)** | **Chennai, India**| **Junior Test Automation Engineer**| **Jan-2014 -> Feb-2016**|
+|**[Expleo Limited - Former(SQS India BFSI Limited)](https://expleo.com/)** | **[Hiscox, London, UK](https://www.hiscox.co.uk/)** | **Chennai, India**| **QA - Test Automation Engineer**| **Oct-2016 -> Oct-2017**|
+|**[Expleo Limited - Former(SQS India BFSI Limited)](https://expleo.com/)**| **[Hiscox, London, UK](https://www.hiscox.co.uk/)** | **London, United Kingdom**| **Test Automation Engineer**| **Feb-2016 -> Oct-2016**|
+|**[Expleo Limited - Former(SQS India BFSI Limited)](https://expleo.com/)**| **[Hiscox, London, UK](https://www.hiscox.co.uk/)** | **Chennai, India**| **Junior Test Automation Engineer**| **Jan-2014 -> Feb-2016**|
 
 <!-- - **Senior Test Automation Engineer @[Matches Fashion](https://www.matchesfashion.com) - London, UK**, - _Since March 2020 to Current_
 - **QA Test Automation Specialist @[Publicis Sapient](https://www.publicissapient.com/) - London, UK** for the Client **([Nationwide Building Society](https://www.nationwide.co.uk/))** - _January 2019 to February 2020_
