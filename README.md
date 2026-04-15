@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 <img align="right" src="https://asset.brandfetch.io/id5o3EIREg/id6PVBBFQj.svg?updated=1696475443284" alt="gmail" height="50" width="50" />mkannan007@gmail.com</a> 
 -->
 <p align="left">
-<a href="https://www.dropbox.com/scl/fi/l8jksmq0bsbmybbk3myat/Kannan_CV.pdf?rlkey=u3rgr2ged4xf3hzveqmtwuo3g&st=uq4wyjtk&dl=0" download="Kannan_CV"> 
+<a href="https://mkannan007.dev/cv" download="Kannan_CV"> 
 <img src="https://www.iconpacks.net/icons/2/free-pdf-download-icon-2617-thumb.png" alt="pdf" width="50" height="50"/>
   Please click here to download my CV in pdf format 
 </a>
@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 
 - 👨‍💻 Some of my personal projects are available at <a href="https://github.com/mkannan007?tab=repositories" target="blank">Please click here to see some of my public Github repositories.</a>
   
-- 💬 Want to know more about me <a href="https://www.dropbox.com/scl/fi/l8jksmq0bsbmybbk3myat/Kannan_CV.pdf?rlkey=u3rgr2ged4xf3hzveqmtwuo3g&st=uq4wyjtk&dl=0" target="blank">Please click here to see my CV.</a>
+- 💬 Want to know more about me <a href="https://mkannan007.dev/cv" target="blank">Please click here to see my CV.</a>
 
 - 📫 How to reach me **mkannan007@outlook.com**
 
